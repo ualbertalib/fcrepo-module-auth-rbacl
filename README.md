@@ -1,5 +1,5 @@
-fcrepo-module-auth-rbacl
-========================
+# fcrepo-module-auth-rbacl
+[![Build Status](https://travis-ci.org/ualbertalib/fcrepo-module-auth-rbacl.svg?branch=dev)](https://travis-ci.org/ualbertalib/fcrepo-module-auth-rbacl)
 
 Role Based Authorization Delegate Module for the Fedora 4 Repository
 
